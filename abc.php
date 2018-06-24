@@ -1,1 +1,1 @@
-asdfadf
+<?php echo "hi"; ?>
